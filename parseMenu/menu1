@@ -1,0 +1,147 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Purdue University :: Housing and Food Services</title>
+    <meta name="keywords" content="housing, dining, Purdue, university, housing and food services, residence halls, dorms, campus, on-campus, room, rates, dining court, dining hall, University Residences, Purdue Memorial Union, Union Club Hotel, Purdue, virtual tour, conference, Conference Services, Elliott Hall of Music, Food Stores, Boiler Television, BTV, treat pack, residential life, university resident, student employment, student union, peer mentor, Connections newsletter, Hallways newsletter, lofts, long distance, moving in, contract renewal, housing preferences, housing application, housing choices, housing options," />
+    <meta name="AUTHOR" content="Jane Cassidy, Adam Carr, Matt Magurany, Housing and Food Services, Marketing and Communications, Purdue University">
+    <meta name="ROBOTS" content="ALL">
+    <meta name="description" content="Our dedicated staff takes great pride in fulfilling the mission to serve the campus community of Purdue University and its many guests. We strive everyday to provide the best facilities, programs, and services to our students, families, and campus guests. Whatever your needs, from learning more about on-campus housing to scheduling a conference and more, we look forward to serving you with true Boilermaker hospitality. Purdue is a great place to live, learn, and succeed. We are glad you are here with us!" />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    
+    <link rel="shortcut icon" href="http://www.housing.purdue.edu/Assets/Images/favicon.ico" type="image/x-icon"></link>
+    
+    
+    
+    
+    <link href="Styles/menu.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/WhatsNew.css" rel="stylesheet" type="text/css" />
+
+    <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+    </script>
+    <script type="text/javascript">
+    _uacct = "UA-688471-1";
+    urchinTracker();
+    </script>
+    <script type="text/javascript" src="http://hfsmenus.mobify.me/mobify/redirect.js"></script>
+    <script type="text/javascript">    try { _mobify("http://hfsmenus.mobify.me/"); } catch (err) { };</script>
+    <script language="javascript">AC_FL_RunContent = 0;</script>
+    <script src="Assets/images/AC_RunActiveContent.js" language="javascript"></script>
+
+    <script language="JAVASCRIPT" type="TEXT/JAVASCRIPT" src="Scripts/mm_standards.js"></script>
+
+    <script language="JAVASCRIPT" type="TEXT/JAVASCRIPT" src="Scripts/fw_menu.js"></script>
+
+    <script language="JAVASCRIPT" type="TEXT/JAVASCRIPT" src="Scripts/new_window.js"></script>
+
+    <script language="JAVASCRIPT" type="TEXT/JAVASCRIPT" src="Scripts/randomPhotos.js"></script>
+
+    <script language="JAVASCRIPT" type="TEXT/JAVASCRIPT">
+<!--
+function fwLoadMenus()
+{
+  if (window.grillMenu) return;
+  window.grillMenu = new Menu("Grills",140,30,"Verdana, Arial, Helvetica, sans-serif",11,"#000000","#ffffff","#E0D5C5","#B1946C");
+  grillMenu.addMenuItem("<strong>Griffin Express</strong><br>at Hillenbrand","window.open('http://housing.purdue.edu/HTML/CampusDining/GriffinExpress.htm', '_self');");
+  grillMenu.addMenuItem("<strong>Harrison Grill&eacute;</strong><br>at Harrison","window.open('http://housing.purdue.edu/HTML/CampusDining/HarrisonGrille.htm', '_self');");
+  grillMenu.hideOnMouseOut=true;
+  
+  if (window.miniMenu) return;
+  window.miniMenu = new Menu("HRGuideBook",140,30,"Verdana, Arial, Helvetica, sans-serif",11,"#000000","#ffffff","#E0D5C5","#B1946C");
+  miniMenu.addMenuItem("<strong>Boiler Crossing</strong><br>at Meredith","window.open('http://housing.purdue.edu/HTML/CampusDining/BoilerCrossing.htm', '_self');");
+  miniMenu.addMenuItem("<strong>Boiler Junction</strong><br>at Tarkington","window.open('http://housing.purdue.edu/HTML/CampusDining/BoilerJunction.htm', '_self');");
+  miniMenu.hideOnMouseOut=true;
+  miniMenu.writeMenus();  
+} // fwLoadMenus()
+// End -->
+</script>
+<script type="text/javascript">
+function ShowRSSDescription(div)
+{
+    descriptionDivStyle = div.getElementsByTagName("div")[0].style;
+    descriptionDivStyle.visibility="visible";
+    descriptionDivStyle.display="block";
+}
+function HideRSSDescription(div)
+{
+    descriptionDivStyle = div.getElementsByTagName("div")[0].style;
+    descriptionDivStyle.visibility="hidden";
+    descriptionDivStyle.display="none";
+}
+</script>
+
+</head>
+<body>
+<a href="#" name="top" id="top"></a>
+<div class="TopBorder"><img src="Assets/images/FirstLevel/TopBorderLeft.jpg" width="377" height="19" style="float: left;"/><a href="http://www.housing.purdue.edu/HTML/FAQs.htm"><img src="Assets/Images/FirstLevel/FAQTop.jpg" alt="Frequently Asked Questions" title="Frequently Asked Questions" class="NoBorder" style="float: right;" width="199" height="20" /></a></div>
+<div class="BkgdStripe"><img src="Assets/images/BannerName.jpg" width="377" height="62" usemap="#Map" class="NoBorder" style="float: left;" /><img src="Assets/images/HFSRight.gif" width="190" height="62" class="FloatRight" /></div>
+<div class="PULogoShim"></div><div class="NavBKGD"></div>
+<td class="LeftNav" valign="top">
+</td>
+
+        
+    <div class="MainContentBkgd">
+        <div class="Banner"></div>
+        
+        <div class="MainContent">
+             
+<div id="ctl00_MenusContentPH_hall_links">
+	<div id = "date" align = "center"><font size = "1 pt"><a href = "menu.aspx?hallID=2&date=10/26/2011">Earhart Dining Court</a>&nbsp;|&nbsp;<a href = "menu.aspx?hallID=10&date=10/26/2011">Ford Dining Court</a>&nbsp;|&nbsp;<a href = "menu.aspx?hallID=9&date=10/26/2011">Hillenbrand Dining Court</a>&nbsp;|&nbsp;<a href = "menu.aspx?hallID=4&date=10/26/2011">Wiley Dining Court</a>&nbsp;|&nbsp;<a href = "menu.aspx?hallID=11&date=10/26/2011">Windsor Dining Court</a>&nbsp;&nbsp;</font></div>
+</div>
+<div class="HallInfo">
+        <img src="Assets/images/blackbar.jpg" class="HallInfoImage" alt="" />
+        
+        <a id="ctl00_MenusContentPH_hyperlinkHome" href="Default.aspx">Menus Home</a>
+        <a id="ctl00_MenusContentPH_hyperlinkNetNutrition" onClick="javascript:urchinTracker('/outgoing/NetNutrition');" href="http://apps.hfs.purdue.edu/netnutrition">Net Nutrition</a>
+        <a id="ctl00_MenusContentPH_hyperlinkWeeklyMenu" href="pdf.aspx?facility=11&amp;startDate=10/23/2011&amp;endDate=10/29/2011">View Weekly Menu</a>
+        
+        <div id="ctl00_MenusContentPH_divNavigationTab"><img src="Assets/images/prev_dis.gif" width="16" height="16" border="0">&nbsp;<span id="date">Wednesday 10/26/2011</span>&nbsp;<a href="menu.aspx?hallID=11&date=10/27/2011"><img src="Assets/images/next.gif" width="16" height="16" border="0"></a><br></div>
+</div>
+<div class="Divider"></div>
+<div class="MenuList">
+        <div id="ctl00_MenusContentPH_divDiningCourtImage" class="WindsorDiningCourt_Image"></div><span id="ctl00_MenusContentPH_title">Windsor Dining Court Menu</span> <br /><a class="MapLink" href="/HTML/Map.htm">View Map</a><br />
+        <div class="Divider"></div>      
+        
+        
+        
+        <div class="TwoColL"><div id="ctl00_MenusContentPH_panelLunch">
+	<div id="mealStation" class="meal">Lunch Portobello Road - Vegetarian</div><div id="container"><ul><li>* Vegetarian Malibu Burger</li><li>* Spinach Feta Quesadilla</li><li>* Peas                    </li><li>* Vegan Spicy Basil Tofu </li><li>Quinoa Stuffed Peppers Windsor</li></ul></div><div id="mealStation" class="meal">Lunch Regent Grill</div><div id="container"><ul><li>Turkey and American Wrap  </li><li>* Macaroni & Cheese</li><li>Burgers with Toppings</li><li>Austin Blues Pork Ribs</li><li>Hot Dog Bar</li><li>Corn Nuggets</li></ul></div><div id="mealStation" class="meal">Lunch Abby Road Deli</div><div id="container"><ul><li>Turkey Noodle Soup</li><li>Deli & Fresh Baked Breads</li></ul></div><div id="mealStation" class="meal">Lunch SoHo International Market</div><div id="container"><ul><li>* Baked Sweet Potato      </li><li>Chicken Jollof Rice with Esther's Sauce</li><li>* African Akara </li><li>* African Maize and Spinach </li><li>African Peri Peri Chicken </li><li>Pasta and Breadsticks</li></ul></div><div id="mealStation" class="meal">Lunch Chelsea Garden</div><div id="container"><ul><li>Sizzling Classic Chicken Caesar Salad</li><li>Red Grapes</li><li>Chelsea Garden Salad Bar</li></ul></div><div id="mealStation" class="meal">Lunch Lunch 2</div><div id="container"><ul><li>Spicy Breaded Chicken Breast </li></ul></div>
+</div></div>
+        <div class="TwoColR"><div id="ctl00_MenusContentPH_panelDinner">
+	<div id="mealStation" class="meal">Dinner Portobello Road - Vegetarian</div><div id="container"><ul><li>* Vegetarian Malibu Burger</li><li>* Spinach Feta Quesadilla</li><li>* Peas                    </li><li>* Vegan Spicy Basil Tofu </li><li>Quinoa Stuffed Peppers Windsor</li></ul></div><div id="mealStation" class="meal">Dinner Regent Grill</div><div id="container"><ul><li>* Macaroni & Cheese</li><li>Burgers with Toppings</li><li>Austin Blues Pork Ribs</li><li>Grilled Chicken Breast</li><li>Italian Sausage </li></ul></div><div id="mealStation" class="meal">Dinner Abby Road Deli</div><div id="container"><ul><li>Turkey Noodle Soup</li><li>Italian Beef</li><li>Deli & Fresh Baked Breads</li></ul></div><div id="mealStation" class="meal">Dinner SoHo International Market</div><div id="container"><ul><li>* Baked Sweet Potato      </li><li>Cajun Tilapia</li><li>African T'ibs We't </li><li>* African Akara </li><li>* African Maize and Spinach </li><li>Pasta and Breadsticks</li></ul></div><div id="mealStation" class="meal">Dinner Chelsea Garden</div><div id="container"><ul><li>Red Grapes</li><li>Chelsea Garden Salad Bar</li><li>Sizzling Classic Chicken Caesar Salad</li></ul></div>
+</div></div>
+        
+        <div class="Divider"></div>
+        <div class="ColCenter"><span id="ctl00_MenusContentPH_veggie_footer">* Denotes Vegetarian Item<br />
+        Consuming raw or undercooked meats, poultry, seafood, shellfish, or eggs may increase your risk of foodborne illness, especially if you have certain medical conditions.</span></div>
+</div>
+
+        </div>
+        <div class="Divider"></div>
+        
+        <div class="FooterBkgd">
+            <div class="PurdueFooterLinks">
+              <ul>
+                <li><a href="http://www.purdue.edu">Purdue University</a></li>
+                <li><a href="http://www.purdue.edu/oop/campus_map/">Campus Map</a></li>
+                <li><a href="http://search.purdue.edu/">Directories &amp; Searches</a></li>
+              </ul>
+            </div>
+            <div class="Copyright">Purdue University, West Lafayette, IN 47907 USA, (765) 494-4600<br />
+              <a href="http://www.purdue.edu/Purdue/disclaimer/" onclick="window.open(this.href,'_blank');return false;">Copyright &copy; 2010 Purdue University. All rights reserved.</a> <a href="http://www.purdue.edu/Purdue/nondiscrimination/" onclick="window.open(this.href,'_blank');return false;">An equal access/equal opportunity university.</a><br />
+              If you have trouble accessing this page because of a disability, please <a href="mailto:hfsweb@purdue.edu">contact HFS</a>
+            </div>
+            <div class="Comments">
+                <a href="http://www.housing.purdue.edu/HTML/FAQs.htm" style="float: left; display: block; width: 30px; padding-right: 4px; margin-right: 4px; border-right: 1px solid #999;" title="Frequently Asked Questions">FAQs</a>
+                <a title="Download Adobe Reader" style="float: left; display: block; width: 100px; padding-left: 4px; margin-right: 4px;" href="http://www.adobe.com/products/acrobat/readstep2.html">Adobe Reader</a>
+            </div>
+        </div>
+    </div>
+   
+    <script language="JavaScript1.2">fwLoadMenus();</script>
+    <map name="Map" id="Map">
+        <area shape="rect" coords="16,24,126,59" href="http://www.purdue.edu" onclick="window.open(this.href,'_blank');return false;" alt="Purdue University" title="Purdue University" />
+        <area shape="rect" coords="158,13,300,54" href="http://www.housing.purdue.edu" alt="Housing and Food Services" title="Housing and Food Services" />
+    </map>
+</body>
+</html>
